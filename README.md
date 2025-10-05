@@ -209,3 +209,6 @@ Copy each to `.env` and adjust to your machine if needed.
 
 
 
+<img width="1470" height="829" alt="image" src="https://github.com/user-attachments/assets/fd3c2e7c-25e8-4694-ac37-41a6a72c1b19" />
+<img width="1470" height="870" alt="image" src="https://github.com/user-attachments/assets/65e72462-e7ce-40b9-b091-d4d24f0fa96f" />
+
